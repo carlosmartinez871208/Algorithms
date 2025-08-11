@@ -45,7 +45,7 @@ $(BINARY):
 	@echo "Linking done!!!"
 	@echo "Build finished!!!"
 
-$(OBJ_DIR)/%.o:$(SRC_DIR)/%.cpp
+$(OBJ_DIR)/%.o:$(SRC_DIR)/%.c
 	@echo "Compilation started...!!!"
 	$(CC) $(WARNS) $(CFLAGS) $(INCLUDES) $< -o $@
 	@echo "Compilation done!!!"
