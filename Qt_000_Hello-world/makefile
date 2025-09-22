@@ -14,9 +14,9 @@ CC = g++-15
 # Use gdb in case of using linux
 #DBG = GDB
 DBG = lldb
-WARNS = -Wall -Werror -Wpedantic -Wno-unused-variable -Wno-unused-function
-CFLAGS = -std=c++20 -g -c
-LFLAGS = -std=c++20
+WARNS = -Wall -Wpedantic -Wno-unused-variable -Wno-unused-function
+CFLAGS = -std=c++20 -g -c `pkg-config --cflags --libs Qt6Widgets`
+LFLAGS = -std=c++20 `pkg-config --cflags --libs Qt6Widgets`
 
 all: intro $(BINARY)
 
