@@ -118,6 +118,7 @@
         "format": "cpp",
         "ostream": "cpp",
         "stop_token": "cpp",
-        "text_encoding": "cpp"
+        "text_encoding": "cpp",
+        "queue.h": "c"
     }
 }

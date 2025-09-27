@@ -6,5 +6,5 @@ rm -f *.class
 # Compile all .java files
 javac *.java
 
-# Execute main class
-java main_sll
+# Execute main class (assuming Project_name contains the main method)
+java Project_name

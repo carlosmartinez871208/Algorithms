@@ -7,4 +7,4 @@ rm -f *.class
 javac *.java
 
 # Execute main class
-java main_sll
+java Project_Queue
