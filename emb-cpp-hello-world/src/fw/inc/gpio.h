@@ -79,8 +79,6 @@ class GPIO{
 
 /*                                            Exported functions prototypes                                          */
 /*********************************************************************************************************************/
-extern void PORTG_InitPinMode   (const uint32_t PIN_MODE);
-extern void PORTG_TogglePin     (const uint32_t PIN);
 
 /*********************************************************************************************************************/
 #endif
