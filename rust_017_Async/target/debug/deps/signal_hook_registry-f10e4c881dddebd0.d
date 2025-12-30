@@ -1,0 +1,6 @@
+/Users/cmartinez/Documents/Cursos/Algorithms/rust_017_Async/target/debug/deps/signal_hook_registry-f10e4c881dddebd0.d: /Users/cmartinez/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.7/src/lib.rs /Users/cmartinez/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.7/src/half_lock.rs
+
+/Users/cmartinez/Documents/Cursos/Algorithms/rust_017_Async/target/debug/deps/libsignal_hook_registry-f10e4c881dddebd0.rmeta: /Users/cmartinez/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.7/src/lib.rs /Users/cmartinez/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.7/src/half_lock.rs
+
+/Users/cmartinez/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.7/src/lib.rs:
+/Users/cmartinez/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.7/src/half_lock.rs:

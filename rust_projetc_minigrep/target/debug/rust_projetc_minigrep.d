@@ -1,0 +1,1 @@
+/Users/cmartinez/Documents/Cursos/Algorithms/rust_projetc_minigrep/target/debug/rust_projetc_minigrep: /Users/cmartinez/Documents/Cursos/Algorithms/rust_projetc_minigrep/src/lib.rs /Users/cmartinez/Documents/Cursos/Algorithms/rust_projetc_minigrep/src/main.rs
